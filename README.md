@@ -1,7 +1,7 @@
 # staze_test
 
 Most of the task has been implemented.
-The code has a bug where when I press back button on the 2nd page , the 1st page is not dispalyed.
+The code at the moment has a bug where when I press back button on the 2nd page , the 1st page is not displayed. 
 
 
 ## Getting Started
